@@ -24,7 +24,7 @@ namespace EsercizioGit
             int x = int.Parse(textBox1.Text);
             int y = int.Parse(textBox2.Text);
 
-            int[,] tabella = new int[x,y];
+            //int[,] tabella = new int[x,y];
 
             dataGridView1.DataSource = tabella;
 
