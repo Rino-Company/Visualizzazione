@@ -1,0 +1,10 @@
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\obj\Debug\EsercizioGit.csprojAssemblyReference.cache
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\obj\Debug\EsercizioGit.Form1.resources
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\obj\Debug\EsercizioGit.Properties.Resources.resources
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\obj\Debug\EsercizioGit.csproj.GenerateResource.cache
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\obj\Debug\EsercizioGit.csproj.CoreCompileInputs.cache
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\bin\Debug\EsercizioGit.exe.config
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\bin\Debug\EsercizioGit.exe
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\bin\Debug\EsercizioGit.pdb
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\obj\Debug\EsercizioGit.exe
+C:\Users\ghiri\Desktop\EsercizioGit\EsercizioGit\obj\Debug\EsercizioGit.pdb
